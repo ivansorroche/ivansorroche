@@ -1,5 +1,5 @@
 <h1 align="center">
- This readme is in the process of being created 😃
+ This README is a work in progress. 😃
 </h1>
 
 <p align="center">
