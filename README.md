@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![Image](https://github.com/user-attachments/assets/497dd1e5-9387-48ce-a2eb-0344d7e77a60)
 <!--
 **ivansorroche/ivansorroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
