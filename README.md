@@ -1,5 +1,8 @@
 ## Hi there 👋
-![Image](https://github.com/user-attachments/assets/497dd1e5-9387-48ce-a2eb-0344d7e77a60)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fd608bb5-0859-4697-86ca-0c48b6ee709b" width="50%" height="20%" />
+</p>
 <!--
 **ivansorroche/ivansorroche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
