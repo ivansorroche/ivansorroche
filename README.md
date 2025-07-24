@@ -16,7 +16,7 @@
 </span>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
-- 🖥 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟 𝚠𝚒𝚝𝚑 𝚋𝚘𝚕𝚍 𝚒𝚍𝚎𝚊𝚜
+- 🖥 Software developer with good ideas
 - 💼 Full Stack Developer, Accurate Software [<img src="https://www.accurate.com.br/wp-content/uploads/2024/10/logo-accurate.svg" height="30em" align="center" alt="Accurate" title="Accurate"/>](https://www.accurate.com.br/)
 - 🎓 Technology Degree in Systems Analysis and Software Development 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 UNIP 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 [<img src="https://play-lh.googleusercontent.com/VzUfEzZ2q-y6lWl9liKGTxg7d6Ym5i7yYaHNHZogN8VDrx0RJJ6055mRVUzNMqT7ci9v" height="30em" align="center" alt="Accurate" title="Accurate"/>](https://unip.br/), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2016
 - 🎓 MBA Full Stack Develor 𝚏𝚛𝚘𝚖 𝚝𝚑𝚎 IMPACTA 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 [<img src="https://pbs.twimg.com/profile_images/926490279749783552/jKFTBcvm_400x400.jpg" height="30em" align="center" alt="Accurate" title="Accurate"/>](https://mba.impacta.edu.br/), 𝚌𝚕𝚊𝚜𝚜 𝚘𝚏 2024
