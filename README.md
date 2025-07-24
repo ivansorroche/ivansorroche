@@ -12,6 +12,7 @@
 *𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-05-07` <!-- TODO: automate this -->   
 
  ![visitors](https://vbr.nathanchung.dev/badge?page_id=ivansorroche&color=1a42ba)
+ 
 </span>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 
