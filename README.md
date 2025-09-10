@@ -1,5 +1,5 @@
 <h1 align="center">
- This README is a work in progress. 😃
+ To teach is to learn twice. 
 </h1>
 
 <p align="center">
